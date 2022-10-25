@@ -50,6 +50,11 @@ a:hover {
 
 }
 
+img{
+  object-fit: contain;
+  border-radius: 5%;
+}
+
 .nav a {
     font-weight: 700;
 }
