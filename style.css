@@ -67,10 +67,10 @@ img{
 .black-border {
   border-style: solid;
   border-color: black;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
 }
 
 .white-border {
