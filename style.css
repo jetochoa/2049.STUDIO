@@ -73,6 +73,16 @@ img{
   padding-left: 10px;
 }
 
+.white-border {
+  border-style: solid;
+  border-color: white;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin: 20px;
+}
+
 /* link setup */
 a.five:link {color:black;text-decoration:none; cursor: pointer;}
 a.five:visited {color:black;text-decoration:none;}
